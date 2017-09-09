@@ -1,0 +1,15 @@
+http://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/
+https://www.cs.hmc.edu/~geoff/classes/hmc.cs135.201109/homework/fuse/fuse_doc.html
+https://github.com/libfuse/libfuse
+http://www.tavi.co.uk/phobos/fat.html
+https://lastlog.de/misc/fuse-doc/doc/html/index.html#section1
+https://forums.cpanel.net/threads/why-are-644-and-755-unix-permissions-ideal-for-files-directories-in-public-folders.136821/
+http://www.maastaar.net/fuse/linux/filesystem/c/2016/05/21/writing-a-simple-filesystem-using-fuse/
+https://github.com/rchakra3-Have referred most from here as well modified some functions
+https://www.gnu.org/software/libc/manual/html_node/Testing-File-Type.html#Testing-File-Type
+http://codewiki.wikidot.com/c:struct-stat
+https://www.tutorialspoint.com/c_standard_library/c_function_memset.htm
+http://stackoverflow.com/questions/23208634/writting-a-simple-filesystem-in-c-using-fuse
+http://pubs.opengroup.org/onlinepubs/7908799/xsh/sysstat.h.html
+https://www.linux.com/learn/understanding-linux-file-permissions
+http://bencane.com/2013/10/10/symlinks-vs-hardlinks-and-how-to-create-them/	
